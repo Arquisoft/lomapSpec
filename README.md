@@ -6,7 +6,7 @@ Common specification for LoMap apps
 {
   "maps":[
   {
-    "id":"(generación aleatoria de carácteres)",
+    "id":"(generación aleatoria de carácteres, default map is 1)",
     "name":"Mapa vuelta al mundo",
     "locations":[
       {

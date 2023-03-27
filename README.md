@@ -24,7 +24,13 @@ Common specification for LoMap apps
           },
           (..more comments)
          ],
-        "reviewScore":"",
+        "reviewScore":[
+          {
+            "author":"webId of the person who comments",
+            "score":"from 0-10",
+            "date": "1679832611",//timesamp of the comment
+          }
+        ],
         "date": "timestamp of the time the user placed the pin/landmark..."
         ],
         (..more locations)

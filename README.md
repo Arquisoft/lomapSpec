@@ -24,7 +24,7 @@ Common specification for LoMap apps
           },
           (..more comments)
          ],
-        "reviewScore":[
+        "reviewScores":[
           {
             "author":"webId of the person who comments",
             "score":"from 0-10",
